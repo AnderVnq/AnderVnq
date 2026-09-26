@@ -2,7 +2,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=AnderVnq&style=for-the-badge">
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/-tommy-anderson-venegas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tommy-anderson-venegas/)](https://www.linkedin.com/in/tommy-anderson-venegas/)
+[![LinkedIn](https://img.shields.io/badge/-tommy anderson venegas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tommy-anderson-venegas/)](https://www.linkedin.com/in/tommy-anderson-venegas/)
 [![GitHub](https://img.shields.io/badge/-Git%20Hub-c17538?style=flat-square&logo=github&logoColor=white&link=https://github.com/AnderVnq)](https://github.com/AnderVnq)
 [![Gmail](https://img.shields.io/badge/-ndrsnvenegas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ndrsnvenegas@gmail.com)](mailto:ndrsnvenegas@gmail.com)
 <!-- Cuando tengas portafolio, descomenta esta línea y pon tu URL:
