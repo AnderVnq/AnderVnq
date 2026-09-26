@@ -14,7 +14,7 @@
 </p>
 
 <a>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B906&duration=4000&size=17&lines=Full+Stack+Developer;DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+%26+Server+Administration;CI%2FCD+%7C+IaC+%7C+Containers" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B906&duration=4000&size=17&lines=Full+Stack+Developer;DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+%26+Server+Administration;GitHub+Actions+%7C+Jenkins+%7C+Docker" />
 </a>
 
 <br>
@@ -22,7 +22,7 @@
 # 🧑‍💻 Sobre mí
 
 - ☁️ Diseño y despliego infraestructura en **AWS** siguiendo buenas prácticas.
-- 🔁 Automatizo pipelines de **CI/CD** para entregar software de forma rápida, segura y repetible.
+- 🔁 Automatizo pipelines de **CI/CD** con **GitHub Actions** y **Jenkins** para entregar software de forma rápida, segura y repetible.
 - 🏗️ Gestiono infraestructura como código con **Terraform** y **Ansible**.
 - 🐧 Administro servidores **Linux**: configuración, seguridad, redes, backups y monitoreo.
 - 📈 Mido y mejoro el rendimiento de los equipos con **métricas DORA** y observabilidad.
@@ -84,10 +84,10 @@
 ![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
 
 ### 🔁 DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![DORA Metrics](https://img.shields.io/badge/DORA%20Metrics-4B0082?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
@@ -121,24 +121,7 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderVnq&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/?username=AnderVnq&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=AnderVnq&theme=onedark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    width="80%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnderVnq&theme=github-compact&bg_color=282C34&color=CCCCCC&line=DF6D74&point=AAAAAA&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
 </div>
 
 <!-- Para mostrar proyectos, descomenta esto y cambia NOMBRE_DEL_REPO por el nombre real de tu repositorio:
