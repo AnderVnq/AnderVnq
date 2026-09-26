@@ -19,15 +19,15 @@
 
 <br>
 
-# 🧑‍💻 Sobre mí
+# Sobre mí
 
-- ☁️ Diseño y despliego infraestructura en **AWS** siguiendo buenas prácticas.
-- 🔁 Automatizo pipelines de **CI/CD** con **GitHub Actions** y **Jenkins** para entregar software de forma rápida, segura y repetible.
-- 🐧 Administro servidores **Linux**: configuración, seguridad, redes, backups y monitoreo.
-- 📈 Monitoreo aplicaciones e infraestructura con **CloudWatch**.
+- Diseño y despliego infraestructura en **AWS** siguiendo buenas prácticas.
+- Automatizo pipelines de **CI/CD** con **GitHub Actions** y **Jenkins** para entregar software de forma rápida, segura y repetible.
+- Administro servidores **Linux**: configuración, seguridad, redes, backups y monitoreo.
+- Monitoreo aplicaciones e infraestructura con **CloudWatch**.
 
 <!-- Cuando tengas certificaciones, descomenta esta sección y deja solo las que tengas:
-# 🏅 Certificaciones
+# Certificaciones
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -109,7 +109,7 @@
 </div>
 
 <!-- Para mostrar proyectos, descomenta esto y cambia NOMBRE_DEL_REPO por el nombre real de tu repositorio:
-# 👨‍💻 Proyectos
+# Proyectos
 
 <div align="center">
   <a href="https://github.com/AnderVnq/NOMBRE_DEL_REPO">
